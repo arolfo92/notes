@@ -9,3 +9,6 @@ Personal development log — notes, findings, and ongoing work.
 - Investigated performance bottleneck, noted findings
 - Fixed off-by-one error in loop
 - Verified compatibility with latest runtime version
+
+## 2026-06-13
+- Updated license year
